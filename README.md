@@ -62,7 +62,3 @@ The model achieved a test accuracy of 86.47%. The results show that a simple neu
 * Train for more epochs
 * Apply data augmentation
 * Test on real-world images
-
-## Author
-
-Abdullah Alatwi
