@@ -1,11 +1,11 @@
-## Sample Images
+# Sample Images
 
-![Sample Images](images/sample-images.png)
+![Sample Images](sample-images.png)
 
-## Accuracy Graph
+# Accuracy Graph
 
-![Accuracy Graph](images/accuracy-graph.png)
+![Accuracy Graph](accuracy-graph.png)
 
-## Prediction Results
+# Prediction Results
 
-![Predictions](images/predictions.png)
+![Predictions](predictions.png)
